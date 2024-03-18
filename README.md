@@ -1,2 +1,2 @@
-# rando_craft
-Rando craft is tech mod for minecraft fabric
+# rando_craft website
+this is the branch for the website/landing page
